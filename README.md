@@ -1,33 +1,33 @@
 New Features
 
 
-Blaze Slayer Attunement Display
+-Blaze Slayer Attunement Display
 
-Hide Pacified Blazes
+-Hide Pacified Blazes
 
-Inferno Demonlord Fire Pit Warning
+-Inferno Demonlord Fire Pit Warning
 
-Local API
+-Local API
 
 Changes
 
 
-Changed the way client tick listeners behave
+-Changed the way client tick listeners behave
 
-Better dupe item detection
+-Better dupe item detection
 
-Changed the way the Hide Vanilla Display features prevent rendering
+-Changed the way the Hide Vanilla Display features prevent rendering
 
-Fetch Lowest BIN should be recommended when searching for Copper in the config
+-Fetch Lowest BIN should be recommended when searching for Copper in the config
 
-Fix Blaze Slayer being discarded after demon phase
+-Fix Blaze Slayer being discarded after demon phase
 
-Fixed close button on Mod Checker
+-Fixed close button on Mod Checker
 
-Fixed detection for Blaze Slayer
+-Fixed detection for Blaze Slayer
 
-Fixed Power Orb lock duration not doing anything
+-Fixed Power Orb lock duration not doing anything
 
-Show RNG Meter now works for Blaze Slayer
+-Show RNG Meter now works for Blaze Slayer
 
-Show Slayer Miniboss Hitboxes now works for Blaze Slayer
+-Show Slayer Miniboss Hitboxes now works for Blaze Slayer
